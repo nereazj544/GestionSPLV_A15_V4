@@ -1,27 +1,88 @@
-# GestionSPLVA15
+<p align="center">
+    <img src="logo.png" alt="logo_Gestion_Multimedia">
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+<br>
+<p align="center">
 
-## Development server
+</p>
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br>
+<p align="center" font-size="30px">
+「  🦁 ; こんにちは ⲇ ⲉ⳽ⲧⲉ ⲃⳑⲟⳋ 」
+</p>
+<br>
 
-## Code scaffolding
+<br>
+<p align="center">
+☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★ ・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★
+</p>
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### TABLA DE CONETIDOS
+<details>
 
-## Build
+1. [📌 Descripcion General](#-descripción-general)
+2. [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+3. [⚙️ Instalación](#️-instalación)
+    - [💻 Lista de comandos](#-ˏˋ--lista-de-comandos-ˊˎ-)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+</details>
 
-## Running unit tests
+<br>
+<p align="center">
+☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★ ・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★
+</p>
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
+<br>
+<p align="center">
+<img height="90px" width="100%" src="https://i.pinimg.com/736x/7f/6d/95/7f6d95a485791f905b5c94e31054d460.jpg" >
+</p>
+<br>
+<br>
 
-## Running end-to-end tests
+# 📌 Descripción General
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Este proyecto ha sido diseñado p
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<br>
+<br>
+<p align="center">
+<img height="90px" width="100%" src="https://i.pinimg.com/736x/aa/55/41/aa5541d265687d1fb50d15e6088013d6.jpg" >
+</p>
+<br>
+
+# 🛠️ Tecnologías Utilizadas
+
+
+
+<br>
+<br>
+
+<p align="center">
+<img  height="90px" width="100%" src="https://i.pinimg.com/736x/35/cd/54/35cd544a8b4bde382edafa48c8c7795f.jpg" alt="separador1">
+</p>
+<br>
+
+# ⚙️ Instalación
+
+<br>
+<p align="center">
+<img  height="90px" width="100%"   src="https://i.pinimg.com/736x/ff/18/08/ff180896bf024353d41301ca2e623603.jpg" alt="separador1">
+</p>
+<br>
+
+<br>
+
+##  -ˏˋ 💻 Lista de comandos ˊˎ-
+Todos los comandos se ejacutan desde la raiz del proyecto, desde una terminal:
+
+| Comandos                  | Acciones                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Instalar dependencias                            |
+| `npm install`             |                                                  |
+| `npm install`             |  |
