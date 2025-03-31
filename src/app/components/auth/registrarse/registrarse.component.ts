@@ -1,4 +1,5 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
+import { AuthService } from 'src/shared/auth.service';
 
 @Component({
   selector: 'app-registrarse',
@@ -6,10 +7,25 @@ import { Component, OnDestroy, OnInit } from '@angular/core';
   styleUrls: ['./registrarse.component.css']
 })
 export class RegistrarseComponent implements OnDestroy, OnInit {
+
+  //TODO REGISTRO
+  email: string = '';
+  password: string = '';
+  role: 'admin' | 'proveedor' | 'user' = 'user';
+
+  constructor(private auth: AuthService) { }
+
+  onSubmit() {
+    this.auth.register(this.email, this.password, this.role);
+  }
+
+
+
+
   // TODO MOSTRAR CONTRASEÑA
   showPass = false;
 
-  togglePass(){
+  togglePass() {
     this.showPass = !this.showPass;
   }
 
