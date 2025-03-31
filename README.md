@@ -85,5 +85,5 @@ Todos los comandos se ejacutan desde la raiz del proyecto, desde una terminal:
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Instalar dependencias                            |
 | `npm start`               | Iniciar servicio                                 |
-| :------------------------ | :----------------------------------------------- |
+|                           |                                                  |
 
