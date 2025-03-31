@@ -81,8 +81,8 @@ Este proyecto ha sido diseñado p
 ##  -ˏˋ 💻 Lista de comandos ˊˎ-
 Todos los comandos se ejacutan desde la raiz del proyecto, desde una terminal:
 
-| Comandos                  | Acciones                                           |
+| Comandos                  | Acciones                                         |
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Instalar dependencias                            |
-| `npm install`             |                                                  |
-| `npm install`             |  |
+| `npm start`               | Iniciar servicio                                 |
+| ``             |  |
