@@ -21,7 +21,7 @@ export class HeaderComponent {
   constructor(private router: Router) {
     this.router.events.subscribe(event => {
       if (event instanceof NavigationEnd) {
-        this.isLoginPage = this.router.url === ('/iniciarsesion');
+        this.isLoginPage = this.router.url === ('/login');
         this.isRegistroPage = this.router.url === ('/registrarse');
       }
     })

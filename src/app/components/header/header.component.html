@@ -5,7 +5,7 @@
             <div class="hea-div" *ngIf="!isLoginPage && !isRegistroPage">
                 <li><a [routerLink]="['novedades']">Nuevos Lanzamientos</a></li>
                 <li>
-                    <button><a [routerLink]="['/iniciarsesion']" (click)="onLonginClick()">Iniciar Sesion</a></button>
+                    <button><a [routerLink]="['/login']" (click)="onLonginClick()">Iniciar Sesion</a></button>
                 </li>
                 <span class="separador"> | </span><br class="salto-linea">
                 <li>
@@ -17,7 +17,7 @@
             <div class="iniciar" *ngIf="isRegistroPage">
                 <li>¿Ya tienes cuenta?</li>
                 <li>
-                    <button><a [routerLink]="['iniciarsesion']" (click)="onLonginClick()">Iniciar Sesion</a></button>
+                    <button><a [routerLink]="['login']" (click)="onLonginClick()">Iniciar Sesion</a></button>
                 </li>
             </div>
             <!-- TODO PARA REGISTRARSE -->
