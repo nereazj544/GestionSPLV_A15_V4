@@ -9,6 +9,8 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { NovedadesComponent } from './components/novedades/novedades.component';
 import { HttpClientModule } from '@angular/common/http';
+import { LoginComponent } from './components/auth/login/login.component';
+import { RegistrarseComponent } from './components/auth/registrarse/registrarse.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { HttpClientModule } from '@angular/common/http';
     ErrorComponent,
     HeaderComponent,
     FooterComponent,
-    NovedadesComponent
+    NovedadesComponent,
+    LoginComponent,
+    RegistrarseComponent
   ],
   imports: [
     BrowserModule,
